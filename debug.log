@@ -1,0 +1,16 @@
+[1205/093901.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/093901.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/093901.336:ERROR:exception_snapshot_win.cc(98)] thread ID 556 not found in process
+[1205/093901.336:ERROR:exception_snapshot_win.cc(98)] thread ID 4896 not found in process
+[1205/093955.822:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/093955.822:ERROR:exception_snapshot_win.cc(98)] thread ID 16892 not found in process
+[1205/094552.997:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/094552.997:ERROR:exception_snapshot_win.cc(98)] thread ID 18968 not found in process
+[1205/094639.618:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/094639.619:ERROR:exception_snapshot_win.cc(98)] thread ID 15460 not found in process
+[1205/095106.662:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/095106.663:ERROR:exception_snapshot_win.cc(98)] thread ID 16536 not found in process
+[1205/095106.670:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/095106.666:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[1205/095106.672:ERROR:exception_snapshot_win.cc(98)] thread ID 9808 not found in process
+[1205/095106.672:ERROR:exception_snapshot_win.cc(98)] thread ID 1968 not found in process
