@@ -19,8 +19,7 @@ function runScript(){
   setInterval(() => {
     runScript();
   }, 3600000);
-
-
+runScript();
 //Serving static file / route principale
 server.get('/', function(req, res) {
   /**

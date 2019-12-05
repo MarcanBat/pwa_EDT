@@ -34,5 +34,18 @@ browser.switch_to.frame(browser.find_element_by_tag_name("iframe"))
 browser.execute_script(js)
 
 browser.execute_script("window.scrollTo(0, 500);") 
-browser.save_screenshot('/screen/screenie.jpg')
+browser.save_screenshot('screen/screenie.jpg')
 browser.quit()
+
+
+
+
+
+
+
+
+
+
+
+
+#« C’est comme Inception, si c’est confus et stupide alors tout le monde va adorer. »
